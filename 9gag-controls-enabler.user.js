@@ -8,6 +8,7 @@
 // @run-at       document-idle
 // @namespace    https://greasyfork.org/users/662249
 // @icon         https://9gag.com/favicon.ico
+// @license      CC BY-SA 4.0
 // ==/UserScript==
 
 // entry point

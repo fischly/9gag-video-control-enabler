@@ -7,6 +7,7 @@
 // @grant        none
 // @run-at       document-idle
 // @namespace    https://greasyfork.org/users/662249
+// @icon         https://9gag.com/favicon.ico
 // ==/UserScript==
 
 // entry point
